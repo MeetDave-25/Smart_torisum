@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "Golden Temple (Harmandir Sahib)",
+    "lat": 31.62,
+    "lng": 74.8765,
+    "capacity": 10000,
+    "crowdCount": 8500,
+    "crowdLevel": "high",
+    "region": "North India",
+    "state": "Punjab"
+  },
+  {
+    "id": "2",
+    "name": "Taj Mahal",
+    "lat": 27.1751,
+    "lng": 78.0421,
+    "capacity": 20000,
+    "crowdCount": 15000,
+    "crowdLevel": "high",
+    "region": "North India",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "6",
+    "name": "Qutub Minar",
+    "lat": 28.5244,
+    "lng": 77.1855,
+    "capacity": 3000,
+    "crowdCount": 800,
+    "crowdLevel": "low",
+    "region": "North India",
+    "state": "Delhi"
+  },
+  {
+    "id": "10",
+    "name": "Hampi Monuments",
+    "lat": 15.335,
+    "lng": 76.46,
+    "capacity": 5000,
+    "crowdCount": 1200,
+    "crowdLevel": "low",
+    "region": "South India",
+    "state": "Karnataka"
+  },
+  {
+    "id": "19",
+    "name": "Kerala Backwaters",
+    "lat": 9.4981,
+    "lng": 76.3388,
+    "capacity": 2000,
+    "crowdCount": 450,
+    "crowdLevel": "low",
+    "region": "South India",
+    "state": "Kerala"
+  }
+]
